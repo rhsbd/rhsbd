@@ -1,6 +1,6 @@
 ## Hi there, I'm Rakib Hossain Sajib 👋
 
-**Data Science Enthusiast | Machine Learning Researcher | Final Year CSE Student**
+**Machine Learning Engineer | CSE Graduate**
 
 ---
 
